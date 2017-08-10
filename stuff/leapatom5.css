@@ -1,0 +1,20 @@
+div {
+  height:200px;
+  width:200px;
+  border:3px solid black;
+  border-radius:100px;
+}
+
+
+
+
+
+#first{
+  background-color: #f44242;
+}
+#second{
+  background-color: #f4e242;
+}
+#third{
+  background-color: #42f468;
+}
